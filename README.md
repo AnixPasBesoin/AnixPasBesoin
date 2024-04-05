@@ -19,6 +19,6 @@
 
 ## Giveaways 🎉
 
-- [The emperor's new clotheshttps://etc.usf.edu/lit2go/68/fairy-tales-and-other-traditional-stories/5637/the-emperors-new-clothes/]()
+- [The emperor's new clothes](https://etc.usf.edu/lit2go/68/fairy-tales-and-other-traditional-stories/5637/the-emperors-new-clothes/)
 - [The Jumblies](https://www.poetryfoundation.org/poems/54364/the-jumblies) - Edward Lear
 - [Cédric Villani's talk on Artificial Intelligence (fr) (from my YT🎬)](https://www.youtube.com/watch?v=eAtCTi4x-Dg)
