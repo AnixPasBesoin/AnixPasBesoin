@@ -4,12 +4,15 @@
 - MS - High-Performance Computing
 - PhD (Ongoing... ⏳) - Cyber [In]security
 
-## Reported Vulnerabilities 🐞
+## Reported Critical Vulnerabilities 🐞
 
-- [PSV-2023-0150 & PSV-2023-0151](https://kb.netgear.com/000066030/Security-Advisory-for-Multiple-Vulnerabilities-on-Some-Extenders-PSV-2023-0150-PSV-2023-0151?article=000066030)
-- [PSV-2023-0152](https://kb.netgear.com/000066029/Security-Advisory-for-Post-Authentication-Command-Injection-on-the-XR1000-PSV-2023-0152?article=000066029)
-- [PSV-2023-0153](https://kb.netgear.com/000066028/Security-Advisory-for-Post-Authentication-Command-Injection-on-Some-Extenders-PSV-2023-0153?article=000066028)
-- [PSV-2023-0154](https://kb.netgear.com/000066027/Security-Advisory-for-Post-Authentication-Command-Injection-on-the-R7000-PSV-2023-0154?article=000066027)
+- [CVE-2024-35517](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-35517)
+- [CVE-2024-35518](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-35518)
+- [CVE-2024-35519](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-35519)
+- [CVE-2024-35520](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-35520)
+- [CVE-2024-35522](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-35522)
+- [CVE-2024-35523](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-35523)
+- [CVE-2024-35524](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-35524)
 
 ## Contact 📧
 
