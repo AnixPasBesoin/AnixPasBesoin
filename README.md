@@ -4,7 +4,7 @@
 - MS - High-Performance Computing
 - PhD (Ongoing... ⏳) - Cyber [In]security
 
-## Reported Critical Vulnerabilities 🐞
+## Reported CVEs 🐞
 
 - [CVE-2024-35517](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-35517)
 - [CVE-2024-35518](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-35518)
