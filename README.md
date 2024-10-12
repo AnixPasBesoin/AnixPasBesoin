@@ -8,13 +8,13 @@
 
 ## Reported CVEs 🐞
 
-- [CVE-2024-35517](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-35517)
-- [CVE-2024-35518](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-35518)
-- [CVE-2024-35519](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-35519)
-- [CVE-2024-35520](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-35520)
-- [CVE-2024-35522](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-35522)
-- [CVE-2024-35523](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-35523)
-- [CVE-2024-35524](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-35524)
+- [CVE-2024-35517](https://nvd.nist.gov/vuln/detail/CVE-2024-35517)
+- [CVE-2024-35518](https://nvd.nist.gov/vuln/detail/CVE-2024-35518)
+- [CVE-2024-35519](https://nvd.nist.gov/vuln/detail/CVE-2024-35519)
+- [CVE-2024-35520](https://nvd.nist.gov/vuln/detail/CVE-2024-35520)
+- [CVE-2024-35522](https://nvd.nist.gov/vuln/detail/CVE-2024-35522)
+- [CVE-2024-35523](https://nvd.nist.gov/vuln/detail/CVE-2024-35523)
+- [CVE-2024-35524](https://nvd.nist.gov/vuln/detail/CVE-2024-35524)
 
 ## Contact 📧
 
