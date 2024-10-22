@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=anixpasbesoin)
-
 ## Curriculum 🎓
 
 - BS - Computer Engineering
