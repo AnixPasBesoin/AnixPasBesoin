@@ -1,6 +1,6 @@
 ## Short Bio
 
-> A curious individual, currently pursuing his Ph.D in firmware vulnerabilities.
+> A curious individual, currently pursuing his PhD in firmware vulnerabilities.
 
 ## Curriculum 🎓
 
