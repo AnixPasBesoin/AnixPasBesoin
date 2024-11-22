@@ -1,3 +1,7 @@
+## Short Bio
+
+> A curious individual, currently pursuing his Ph.D degree in firmware vulnerabilities.
+
 ## Curriculum 🎓
 
 - BS - Computer Engineering
